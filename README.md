@@ -56,7 +56,7 @@ const pedro = {
 |---|---|---|
 | **[🌐 Portfólio](https://pedromilan.vercel.app/)** | Portfólio pessoal com design dark, animações e SEO otimizado | Next.js · Tailwind · Framer |
 | **[🕰️ HoraJusta](https://horajusta.vercel.app/)** | Plataforma de marcação de hora para profissionais freelancers e PJ, para ter clareza de tempo gasto e dinheiro ganho. | Next.js · TypeScript · Tailwind |
-| **[🍃 Secret Garden | Alba Serena](https://alba-serena.vercel.app/)** | Alba Serena é um perfume sólido artesanal com lavanda e bergamota, criado pela Secret Garden para transformar sua rotina em bem-estar. | Next.js · TypeScript · Tailwind |
+| **[🍃 Alba Serena](https://alba-serena.vercel.app/)** | Alba Serena é um perfume sólido artesanal com lavanda e bergamota, criado pela Secret Garden para transformar sua rotina em bem-estar. | Next.js · TypeScript · Tailwind |
 
 ---
 
