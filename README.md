@@ -58,16 +58,6 @@ const pedro = {
 | **[🕰️ HoraJusta](https://horajusta.vercel.app/)** | Plataforma de marcação de hora para profissionais freelancers e PJ, para ter clareza de tempo gasto e dinheiro ganho. | Next.js · TypeScript · Tailwind |
 | **[🍃 Alba Serena](https://alba-serena.vercel.app/)** | Alba Serena é um perfume sólido artesanal com lavanda e bergamota, criado pela Secret Garden para transformar sua rotina em bem-estar. | Next.js · TypeScript · Tailwind |
 
----
-
-## `> stats`
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=PedroMilan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMilan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
 
 ---
 
