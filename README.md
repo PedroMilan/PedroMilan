@@ -9,107 +9,63 @@
 ╚═╝     ╚═╝     ╚═╝
 ```
 
-# pedro_milan.ts
+### `> pedro_milan.ts`
+**Frontend Developer · Next.js · TypeScript · Tailwind CSS**
 
-**`> Portfólio Pessoal — Frontend Developer`**
-
-[![Deploy](https://img.shields.io/badge/deploy-vercel-black?style=for-the-badge&logo=vercel)](https://pedromilan.vercel.app/)
-[![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Portfolio](https://img.shields.io/badge/🌐_portfólio-pedromilan.vercel.app-black?style=flat-square)](https://pedromilan.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-milan-5a9551245/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PedroMilan)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pedro.milan9@gmail.com)
 
 </div>
 
 ---
 
-## `> sobre`
-
-Portfólio pessoal desenvolvido com foco em **performance**, **acessibilidade** e **experiência do usuário**. Design dark com acentos neon, animações com Framer Motion e SEO otimizado via `next-seo`.
-
-Disponível em → **[pedromilan.vercel.app](https://pedromilan.vercel.app)**
+```ts
+const pedro = {
+  role:     "Frontend Developer",
+  location: "São Paulo, BR 🇧🇷",
+  focus:    ["performance", "acessibilidade", "UX"],
+  stack:    ["Next.js", "TypeScript", "Tailwind CSS", "React"],
+  looking:  "aberto a oportunidades jr/pleno 👀",
+};
+```
 
 ---
 
 ## `> stack`
 
-| Categoria       | Tecnologias                     |
-| --------------- | ------------------------------- |
-| **Framework**   | Next.js (Pages Router), React   |
-| **Linguagem**   | TypeScript                      |
-| **Estilização** | Tailwind CSS, Styled Components |
-| **Animações**   | Framer Motion                   |
-| **Ícones**      | Lucide React, React Icons       |
-| **Formulário**  | Formspree                       |
-| **SEO**         | next-seo, Open Graph, meta tags |
-| **Deploy**      | Vercel                          |
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
-## `> seções`
+## `> projetos em destaque`
 
-```
-/
-├── Header       → navegação fixa com glass effect
-├── Hero         → apresentação + card de código animado
-├── About        → jornada, valores e destaques técnicos
-├── Skills       → tecnologias agrupadas por categoria
-├── Projects     → projeto hero + grid de projetos
-├── Contact      → formulário + informações de contato
-└── Footer       → links, navegação e créditos
-```
+| Projeto | Descrição | Stack |
+|---|---|---|
+| **[🌐 Portfólio](https://pedromilan.vercel.app/)** | Portfólio pessoal com design dark, animações e SEO otimizado | Next.js · Tailwind · Framer |
+| **[🕰️ HoraJusta](https://horajusta.vercel.app/)** | Plataforma de marcação de hora para profissionais freelancers e PJ, para ter clareza de tempo gasto e dinheiro ganho. | Next.js · TypeScript · Tailwind |
+| **[🍃 Secret Garden | Alba Serena](https://alba-serena.vercel.app/)** | Alba Serena é um perfume sólido artesanal com lavanda e bergamota, criado pela Secret Garden para transformar sua rotina em bem-estar. | Next.js · TypeScript · Tailwind |
 
 ---
 
-## `> rodando localmente`
-
-```bash
-# clone o repositório
-git clone https://github.com/PedroMilan/portfolio.git
-cd portfolio
-
-# instale as dependências
-npm install
-# ou
-yarn install
-
-# inicie o servidor de desenvolvimento
-npm run dev
-# ou
-yarn dev
-```
-
-Acesse **[http://localhost:3000](http://localhost:3000)**
-
----
-
-## `> estrutura`
-
-```
-src/
-├── components/
-│   ├── Header.tsx
-│   ├── Hero.tsx
-│   ├── About.tsx
-│   ├── Skills.tsx
-│   ├── Projects.tsx
-│   ├── Contact.tsx
-│   └── Footer.tsx
-├── pages/
-│   ├── _app.tsx
-│   └── index.tsx
-└── styles/
-    └── globals.css
-```
-
----
-
-## `> contato`
+## `> stats`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro_Milan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-milan-5a9551245/)
-[![GitHub](https://img.shields.io/badge/GitHub-PedroMilan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroMilan)
-[![Email](https://img.shields.io/badge/Email-pedro.milan9@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.milan9@gmail.com)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=PedroMilan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMilan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
@@ -117,6 +73,6 @@ src/
 
 <div align="center">
 
-`© 2026 Pedro Milan — Feito com Next.js e Tailwind CSS`
+`© 2026 Pedro Milan` · Feito com ☕ e muito TypeScript
 
 </div>
